@@ -1,6 +1,8 @@
 body {
     font-family: sans-serif;
     margin: 2rem;
+    color: yellow;
+    background: blue;
 }
 ul {
     list-style: none;
