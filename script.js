@@ -1,4 +1,4 @@
-fetch("events.json")
+fetch("style.css")
     .then((response) => response.json())
     .then((events) => {
         const list = document.querySelector("#starred")
